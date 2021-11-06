@@ -13,7 +13,9 @@ Para el desarrollo del presente proyecto se debe tener en cuenta que el diseño 
 
 Asimismo, como es necesario tener en cuenta estas características del modelado, es importante fijar el estudio en la población a la cual se desea beneficiar, en este caso a los animales y su alimentació. Así pues, un parametro fundamental para este proyecto es la cantidad dde comidas diarias de un animal en relación con su tiempo de vida (edad)
 
-|Edad (meses) | No. comidas |
+
+|Edad (meses) |  No. comidas|
+|-------------|-------------|
 |    0 - 3    |      4      |
 |    3 - 6    |      3      |
 |    6 - 17   |      2      |
